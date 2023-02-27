@@ -1,0 +1,234 @@
+{
+    "adress":"17-10, Dosan-daero 8-gil, Gangnam-gu, Republic of Korea 1F",
+    "topContact":"Gangnam-gu, Seoul",
+    "botContact":"Dosan-daero 8-gil 17-10 1F",
+    "intrduceData" : [
+        {   
+            "content":"Our company provided all the appliances in need, as well as VFX, social advertising design, artwork, game development, technology, and output. In addition, we also deduce motion graphics with subtitles, dynamic typography, animation, and images composed of CG (computer graphics)."
+        },  
+        {   
+            "content":"Our company experiences conducting brand design with various companies, including UI/UX, branding, editing, graphics, industrial design, and maintenance of new media, company, social, and marketing design. In addition, we will coordinate with customers and try our best to compromise the business needs and achieve the goal."
+        }, {
+           
+            "content":"The development area was recognized for its diversity through the verification of the stability stage. The development team, who always concerned about the stability of the development. Moreover, they try their best to develop their own platforms through collaborations between them and companies."
+        }, {
+            
+            "content":"We understand the society needs their own label/keyword of the culture to share their communication. This has become part of their strength in their lives. Moreover, we realized connect people with cultural projects will bring happiness to everyone. Therefore, Loocreative tries to create various cultural events such as music and seminars to reach out to people."
+        }
+    ],
+    "historyData":[
+        {
+            "listItem":[
+                {
+                    "nameProduct":"NETFLX Produces Opening Title of Domestic Drama",
+                    "nameJob":"MOTION"
+                }, {
+                    "nameProduct":"Cheil Worldwide / Innocean Partner Selection",
+                    "nameJob":"MOTION"
+                }, {
+                    "nameProduct":"Hyndai Card TVC and Viral Imaging",
+                    "nameJob":"MOTION"
+                }, {
+                    "nameProduct":"Samsung Grande Dryer AI Digital Video Production",
+                    "nameJob":"MOTION"
+                }, {
+                    "nameProduct":"Samsung Card Collaboration Digital Video Production",
+                    "nameJob":"MOTION"
+                }, {
+                    "nameProduct":"JTBC Value-Mental-Posture Spot Video Production",
+                    "nameJob":"MOTION"
+                }, {
+                    "nameProduct":"SKT Quantum + Galaxy A TVC and Digital Imaging",
+                    "nameJob":"MOTION"
+                }, {
+                    "nameProduct":"Hyundai Oilbank, a symbol, animation production",
+                    "nameJob":"MOTION"
+                }
+            ]
+        },
+        {
+            "listItem":[
+                {
+                    "nameProduct":"ma:nyo TVC Production",
+                    "nameJob":"MOTION"
+                }, {
+                    "nameProduct":"ISA KNOX TVC Production",
+                    "nameJob":"MOTION"
+                }, {
+                    "nameProduct":"Samsung Galaxy FAN Curator Video Production",
+                    "nameJob":"MOTION"
+                }, {
+                    "nameProduct":"Cha-pi CHINA TVC Production",
+                    "nameJob":"MOTION"
+                }, {
+                    "nameProduct":"Samsung Galaxy Screensaver Video Production",
+                    "nameJob":"MOTION"
+                }, {
+                    "nameProduct":"Samsung Galaxy Celeb Live Video Production",
+                    "nameJob":"MOTION"
+                }, {
+                    "nameProduct":"Type in Search Word: WWW tvn Drama Title Production",
+                    "nameJob":"MOTION"
+                }, {
+                    "nameProduct":"Samsung Galaxy S10 TVC Production",
+                    "nameJob":"MOTION"
+                },{
+                    "nameProduct":"My Country (JTBC Drama) Title Production",
+                    "nameJob":"MOTION"
+                },{
+                    "nameProduct":"SK Holdings TVC Production",
+                    "nameJob":"MOTION"
+                },{
+                    "nameProduct":"Shinsegae Duty Free Shop TVC Production",
+                    "nameJob":"MOTION"
+                },{
+                    "nameProduct":"Chris Lee M/V Production",
+                    "nameJob":"MOTION"
+                },{
+                    "nameProduct":"Naver Series TVC Production",
+                    "nameJob":"MOTION"
+                },{
+                    "nameProduct":"Samsung Galaxy A Domestic and Global TVC Production",
+                    "nameJob":"MOTION"
+                },{
+                    "nameProduct":"Multiple other TVC video production and film/drama title sequence production",
+                    "nameJob":"MOTION"
+                }
+            ]
+        },
+        {
+            "listItem":[
+                {
+                    "nameProduct":"LG Display Shocase Video Production",
+                    "nameJob":"MOTION"
+                }, {
+                    "nameProduct":"SSG Campaign TVC 제작",
+                    "nameJob":"MOTION"
+                }, {
+                    "nameProduct":"Lineage 2M BI Video Production",
+                    "nameJob":"MOTION"
+                }, {
+                    "nameProduct":"Netflix TV Show \"Kingdom\" Title 제작",
+                    "nameJob":"MOTION"
+                }, {
+                    "nameProduct":"Samsung Mobility Shocase Video Production",
+                    "nameJob":"MOTION"
+                }, {
+                    "nameProduct":"SKT / KT / U+ Mobile Operators TVC Production",
+                    "nameJob":"MOTION"
+                }
+            ]
+        },
+        {
+            "listItem":[
+                {
+                    "nameProduct":"Establishment of \"LOOC Academy,\" a business-focused educational institution",
+                    "nameJob":"ACADEMY"
+                }, {
+                    "nameProduct":"Samsung QLED TV Welcome Video Production",
+                    "nameJob":"MOTION"
+                }, {
+                    "nameProduct":"G Dragon \"Untitle\" M/V Production",
+                    "nameJob":"MOTION"
+                }, {
+                    "nameProduct":"TaeYang X Lexus TVC and M/V Producton",
+                    "nameJob":"MOTION"
+                }, {
+                    "nameProduct":"Hyundai Veloster Viral Video Production",
+                    "nameJob":"MOTION"
+                }
+            ]
+        },
+        {
+            "listItem":[
+                {
+                    "nameProduct":"Establishment of loocreative",
+                    "nameJob":""
+                }
+            ]
+        }
+    ],
+    "worksData":[
+        {
+            "title": "2021 Looc Showreel",
+            "type": "SHOWREEL"
+          },
+          {
+            "title": "Opening Title | The serene sea",
+            "type": "COMMERCIAL"
+          },
+          {
+            "title": "Opening Title | Sabotage City",
+            "type": "COMMERCIAL"
+          },
+          {
+            "title": "DIGILOCA | Teaser",
+            "type": "COMMERCIAL"
+          },
+          {
+            "title": "Kona Lucky Card",
+            "type": "COMMERCIAL"
+          },
+          {
+            "title": "KB | Liiv Next",
+            "type": "COMMERCIAL"
+          },
+          {
+            "title": "로카머니 | LOCAMONEY",
+            "type": "COMMERCIAL"
+          },
+          {
+            "title": "KLOUD | KLOUD X BTS",
+            "type": "COMMERCIAL"
+          },
+          {
+            "title": "Shinhan Life. | Brand ID",
+            "type": "COMMERCIAL"
+          },
+          {
+            "title": "2021 Looc Showreel",
+            "type": "SHOWREEL"
+          },
+          {
+            "title": "2021 Looc Showreel",
+            "type": "SHOWREEL"
+          },
+          {
+            "title": "2021 Looc Showreel",
+            "type": "SHOWREEL"
+          },
+          {
+            "title": "2021 Looc Showreel",
+            "type": "SHOWREEL"
+          },
+          {
+            "title": "2021 Looc Showreel",
+            "type": "SHOWREEL"
+          },
+          {
+            "title": "2021 Looc Showreel",
+            "type": "SHOWREEL"
+          },
+          {
+            "title": "2021 Looc Showreel",
+            "type": "SHOWREEL"
+          },
+          {
+            "title": "2021 Looc Showreel",
+            "type": "SHOWREEL"
+          },
+          {
+            "title": "2021 Looc Showreel",
+            "type": "SHOWREEL"
+          },
+          {
+            "title": "2021 Looc Showreel",
+            "type": "SHOWREEL"
+          },
+          {
+            "title": "2021 Looc Showreel",
+            "type": "SHOWREEL"
+          }
+    ]
+
+}
